@@ -1,0 +1,20 @@
+body {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#top {
+	background-color: #ff8308;
+	color: #ffffff;
+	text-align: center;
+}
+
+.section {
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+form {
+	padding: 5px;
+}
